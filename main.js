@@ -1,7 +1,7 @@
 // -------------READY--------------
 
 function redirectToPage() {
-    window.location.href = "one.html";
+    window.location.href = "enigme.html";
 }
 
 
